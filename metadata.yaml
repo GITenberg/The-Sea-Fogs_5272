@@ -1,10 +1,13 @@
 _repo: The-Sea-Fogs_5272
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Bacon, Thomas Rutherford
     gutenberg_agent_id: '40959'
     url: http://www.gutenberg.org/2009/agents/40959
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stevenson, Robert Louis
@@ -21,6 +24,8 @@ description: Robert Louis Stevenson first came to California in 1879 for the pur
   of his health. It is in connection with the evil thing that came to him at this
   time that be first makes mention of the sea fogs, that beset a large part of the
   California coast.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5272#The-Sea-Fogs
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
